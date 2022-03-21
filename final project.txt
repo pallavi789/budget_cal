@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title> we help you control your budget </title>
+
+<link href="css file.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="header">
+ <div class="inner-header">
+ <div class="logo"> <a href="#"> CtRI Budget </a></div>
+ <div class="header-link"><a href="#">About Us </a></div>
+<div class="header-link"><a href="#"> Sign Up </a></div>
+<div class="header link"><a href="#"> Login </a></div>
+</div>
+</div>
+
+
+
+        <div class="content">
+            <!--Main banner image-->
+            <div class = "banner_image">
+                <div class="inner-banner-image">	
+                    <center>
+                        <div class="banner_content">
+                            <h1>We help you control your budget</h1>
+                            
+                            <a  href="products.html" class="button">Start Today</a>
+                        </div>
+                    </center>
+                </div>
+            </div>
+            
+</body>
+</html>

@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+    
+}
+header{
+   background-color: c0fefc;
+    height:100vh;
+    background-size:cover;
+    background-position:center;
+        
+}
+ctrl{
+    color: white;
+    
+}
+ul{
+    list-style-type: none;
+    float:right;
+    font-display: block;
+    color: chocolate
+}
+nav{
+    width: 100%;
+    height:8vh;
+    background: rgba(0,0,0,0.2);
+    display: flex;justify-content: space-between;
+    align-items: center;
+    color:black;
+}
+nav .logo{
+    width:25%;
+    text-align:center;
+    
+}
+nav .menu{
+    width:40%;
+
+    display: flex;
+    justify-content: space-around;
+    
+}
+nav .menu a{
+    width:30%;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+main{
+    width: 100%;
+    height:85vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-sizing: content-box;
+    border-radius: 50vh
+}
+
+    section{
+    margin: auto;
+    height:35vh;
+    width:60vh;
+    background: rgba(0,0,0,0.6);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+section h1{
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 900px
+}
+section h2{
+    font-size: 13px;
+    color: black;
+    line-height: 30px;
+    text-align: left;
+    margin-bottom: 40px;
+    
+}
+section a{
+    padding: 12px 30px;
+    border-radius: 4px;
+    outline: none;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight:500;
+    text-decoration:none;
+    letter-spacing: 1px;
+}
+section .btnone{
+    background: #00b894;
+    color: white;
+    
+}
+section h3{
+     margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 900px
+}
+section h4{
+    font-size: 13px;
+    color: black;
+    line-height: 30px;
+    text-align: left;
+    margin-bottom: 40px;
+    display: flex;
+    
+}
+#X
+{
+    background-color: black;
+    padding: 10px;
+    color:silver;
+}
